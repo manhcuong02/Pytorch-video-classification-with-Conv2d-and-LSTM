@@ -6,3 +6,4 @@ weights: https://drive.google.com/drive/folders/1yh3AsJ_4-gT37-ZQ5PSyNrhXLJjNiz_
 
 model:
 
+![](https://github.com/manhcuong02/Pytorch-video-classification-with-Conv2d-and-LSTM/blob/main/model.png?raw=true)
